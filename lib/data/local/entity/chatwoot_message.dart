@@ -5,7 +5,7 @@ import 'package:json_annotation/json_annotation.dart';
 
 import '../local_storage.dart';
 
-part 'chatwoot_message.g.dart';
+// part 'chatwoot_message.g.dart';
 
 /// {@category FlutterClientSdk}
 @JsonSerializable(explicitToJson: true)
