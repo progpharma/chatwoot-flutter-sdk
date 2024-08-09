@@ -121,6 +121,7 @@ class ChatwootChatTheme extends ChatTheme {
           inputBorderRadius: inputBorderRadius,
           inputTextColor: inputTextColor,
           inputTextStyle: inputTextStyle,
+          inputSurfaceTintColor: backgroundColor,
           messageBorderRadius: messageBorderRadius,
           primaryColor: primaryColor,
           receivedMessageBodyTextStyle: receivedMessageBodyTextStyle,
